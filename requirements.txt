@@ -1,0 +1,12 @@
+tqdm
+pylint
+yacs
+pillow
+Cython
+yapf
+opencv-python
+numpy
+torch
+torchvision
+colorama
+numba

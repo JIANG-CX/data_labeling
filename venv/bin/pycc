@@ -1,0 +1,3 @@
+#!/home/jiangcx/桌面/2_data_collector/venv/bin/python
+from numba.pycc import main
+main()
